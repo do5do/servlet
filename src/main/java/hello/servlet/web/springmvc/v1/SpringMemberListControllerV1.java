@@ -2,7 +2,6 @@ package hello.servlet.web.springmvc.v1;
 
 import hello.servlet.domain.member.Member;
 import hello.servlet.domain.member.MemberRepository;
-import hello.servlet.web.frontcontroller.ModelView;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.stereotype.Controller;
